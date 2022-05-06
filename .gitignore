@@ -1,0 +1,7 @@
+*.priv
+*.pub
+*.o
+keygen
+client/client
+server/server
+.clang-format

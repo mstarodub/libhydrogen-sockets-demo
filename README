@@ -1,0 +1,12 @@
+A little demo on how to use https://github.com/jedisct1/libhydrogen to transmit
+encrypted structs over the wire (using sockets, in this case), which I wrote for
+illustration purposes when working at https://aris-space.ch/.
+
+keygen.c contains a test.
+
+./keygen new
+to generate a keypair.
+
+./server/server
+./client/client
+to run.
